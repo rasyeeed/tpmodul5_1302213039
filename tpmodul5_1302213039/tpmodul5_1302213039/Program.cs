@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using tpmodul5_1302213039;
+
+DataGeneric<long> objData = new DataGeneric<long>(1302213039);
+objData.PrintData();
