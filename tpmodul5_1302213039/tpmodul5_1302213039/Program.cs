@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using tpmodul5_1302213039;
+
+HaloGeneric.sapauser_1302213039("Rasyid");
